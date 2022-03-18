@@ -2,7 +2,7 @@
 
 - 💻 Buscando entrar na area de Cientista de dados
 - 🌱 Estudando Python
-- 🔎 Em busca de aprender React, SQL, JS
+- 🔎 Em busca de aprender React, JS
 - 📫 Contato no email: marcusneves0@gmail.com
 
 <div align="center">
