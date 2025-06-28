@@ -1,7 +1,7 @@
 ### Olá! Marcus aqui
 
-- 💻 Buscando entrar na area de Cientista de dados
-- 🌱 Estudando Python
+- 💻 GAME DEVELOPER IN PROGRESS
+- 🌱 Estudando Python and HTML
 - 📫 Contato no email: marcusneves0@gmail.com
 
 <div align="center">
